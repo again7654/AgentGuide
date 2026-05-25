@@ -396,9 +396,9 @@
     "featured": false
   },
   {
-    "id": "",
-    "title": "简历撰写指南",
-    "description": "> 🚧 本文档正在编写中，敬请期待...",
+    "id": "ai-agent-resume-guide",
+    "title": "AI Agent 简历编写指南",
+    "description": "> 简历不是经历流水账，而是让面试官相信你能从 0 到 1 交付 Agent 系统的证据链。",
     "category": "求职",
     "tags": [],
     "level": "入门",
@@ -456,9 +456,9 @@
     "featured": false
   },
   {
-    "id": "",
-    "title": "面试讲故事技巧",
-    "description": "> 🚧 本文档正在编写中，敬请期待...",
+    "id": "ai-agent-storytelling",
+    "title": "AI Agent 项目讲述技巧",
+    "description": "> 面试讲项目不是背简历，而是证明你能定义问题、设计系统、处理失败并持续优化。",
     "category": "求职",
     "tags": [],
     "level": "入门",
