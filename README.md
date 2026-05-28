@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/github/stars/adongwanai/AgentGuide.svg?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
     </a>
     <a href="https://github.com/adongwanai/AgentGuide/network/members">
-        <img src="https://img.shields.io/github/forks/adongwanai/AgentGuide.svg?style=for-the-badge&logo=github&label=Forks" alt="GitHub forks">
+        <img src="https://img.shields.io/badge/Forks-527-orange.svg?style=for-the-badge&logo=github" alt="GitHub forks">
     </a>
     
 <br/>
